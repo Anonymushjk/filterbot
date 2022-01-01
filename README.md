@@ -55,8 +55,7 @@
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Unlimited-Filter-Bot
-cd Unlimited-Filter-Bot
+git clone https://github.com/Anonymushjk/filterbot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
@@ -67,9 +66,9 @@ python3 bot.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* API_ID        - From my.telegram.org (or @UseTGXBot)
+* API_ID        - From my.telegram.org
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org
 
 * AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
 
